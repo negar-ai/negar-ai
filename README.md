@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ML 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: <br>
-<a href="https://linkedin.com/in/negardeilami/" target="_blank">Linkdin</a> 
+<a href="https://linkedin.com/in/negardeilami/" target="_blank">Linkedin</a> 
 <a href="t.me/NegarDeylami">Telegram</a> 
 
 <!---
