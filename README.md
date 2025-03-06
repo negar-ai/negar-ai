@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning ML 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 📫 How to reach me: <br>
 linkedin.com/in/negardeilami/ <br>
 t.me/NegarDeylami
 <!---
