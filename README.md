@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @negar-ai
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning ML 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning NLP, AI agents
 - 📫 How to reach me:
 <a href="https://linkedin.com/in/negardeilami/" target="_blank">Linkedin</a>, 
 <a href="https://t.me/NegarDeylami">Telegram</a> 
